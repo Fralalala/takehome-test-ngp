@@ -5,7 +5,7 @@ To use the script, simply run
 
 ### node script.js
 ------------------------------------
-To run the server or execute the test for it, run :
+To run the server or execute the test for it, run this first :
 
 ### npm install
 
